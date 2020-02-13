@@ -38,6 +38,8 @@ git branch -a (all branch)
 git checkout -b <branch> (bikin branch baru (branch) dan langsung kerja disana)
 git branch -D <branch> (delete)
 git checkout <branch> 
+git remote add origin https://github.com/glengunawan/tesGit.git
+git push -u origin master
 
 
 '''
