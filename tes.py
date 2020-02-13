@@ -19,3 +19,6 @@ git commit --> masuk ke code editor vm (virtual machine)
 git commit -m "Ini commit pertamaku --> message 
 
 '''
+
+print("x") 
+print("x")
